@@ -20,6 +20,7 @@ public class SinglyLinkedList {
 		}
 		System.out.print("null");
 	}
+	//main method
 	public static void main(String[] args) {
 		SinglyLinkedList sll=new SinglyLinkedList();
 		sll.head =new ListNode(10);
